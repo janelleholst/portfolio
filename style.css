@@ -195,6 +195,8 @@ border-radius: 5px;
 border-color: transparent;
 }
 
+#portal:hover {cursor: pointer;}
+
 
 #toRebrand {/* Rectangle 6 */
 position: absolute;
@@ -323,6 +325,7 @@ left: 80px;
     margin-top: 190px;}
 #rebrand {position: relative;
 left: 450px;
+top: 10px;
 top: 10px;
 margin-bottom: 50px;}
 
