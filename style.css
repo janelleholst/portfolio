@@ -347,8 +347,19 @@ left: 690px;
    top: 570px;
 }
 
+
+#beforePic {width: 60%;
+margin-left: 20%;
+margin-top: 20px;}
+
 #currentTitle { color: black;margin-top: 160px;
 margin-left: 46%;}
+
+
+#beforeP {margin-left: 31%;
+margin-top: 100px;}
+
+
 
 
 #current {position: relative;
@@ -410,6 +421,28 @@ margin-top: 100px;}
 #archPic {width: 60%;
 margin-left: 20%;
 margin-top: 80px;}
+
+#finTitle {color: black;
+margin-left: 47%;
+margin-top: 140px;}
+#proc {margin-left: 33%;
+margin-top: 100px;}
+
+
+#fin {margin-left: 37%;
+    width: 29%;
+margin-top: 100px;}
+
+
+#finPic {width: 60%;
+margin-left: 20%;
+margin-top: 80px;}
+
+#procTitle {color: black;
+margin-left: 47%;
+margin-top: 140px;}
+#proc {margin-left: 33%;
+margin-top: 100px;}
 
 
 #flowTitle {color: black;
@@ -674,7 +707,7 @@ border-radius: 7px;
     border-color: transparent;
 }
 
-
+#down:hover {cursor: pointer;}
 #haha {margin-left: 43.3%;}
 
 #res {width: 50%;
