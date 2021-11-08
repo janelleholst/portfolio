@@ -139,10 +139,10 @@ left: 860px;
 bottom: 290px;
 }
 
-#mindPic {width: 28%;
-position: relative;
+#mindPic {width: 25%;
+position: absolute;
 left: 860px;
-bottom: 280px;}
+top: 1230px;}
 
 #workTitle {margin-left: 46%;}
 
@@ -255,8 +255,8 @@ border-color: transparent;
 {/* Rectangle 6 */
 
 position: absolute;
-   left: 1000px;
-top: 1550px;
+   left: 950px;
+top: 1610px;
 width: 230px;
 height: 50px;
 
@@ -269,7 +269,7 @@ border-color: transparent;
 }
 
 
-
+#toWebWork:hover {cursor: pointer;}
 #buttony {}
 
 #linked:hover {color: #DDA542;}
@@ -314,7 +314,7 @@ margin-left: 45%;
 right: 150px;}
 
 #reTitle {position: relative;
-right: 100px;}
+right: 110px;}
 
 #reOver {color: black;
 margin-left: 45%;}
@@ -424,13 +424,13 @@ margin-top: 80px;}
 
 #finTitle {color: black;
 margin-left: 47%;
-margin-top: 140px;}
+margin-top: 80px;}
 #proc {margin-left: 33%;
-margin-top: 100px;}
+}
 
 
-#fin {margin-left: 37%;
-    width: 29%;
+#fin {margin-left: 34%;
+    width: 35%;
 margin-top: 100px;}
 
 
@@ -438,9 +438,109 @@ margin-top: 100px;}
 margin-left: 20%;
 margin-top: 80px;}
 
+
+#dTitle {position: relative;
+left: 60px; 
+    font-size: 26px;
+    margin-top: 190px;}
+
+#dPara {margin-left: 10%;
+margin-top: 100px; 
+position: relative; 
+top: 140px;
+width: 30%;}
+
+
+#d2Title { position: relative;
+left: 145px;
+top: 225px;}
+
+
+#finalTitle {color: black;
+margin-left: 48%;
+margin-top: 130px;}
+
+
+#finalPara {margin-left: 33%;
+margin-top: 20px;}
+
+#finalPic {width: 60%;
+margin-left: 20%;
+margin-top: 80px;}
+
+#thePic {width: 80%;
+margin-left: 10%;
+margin-top: 80px;}
+
+#metTitle {position: relative;
+right: 70px; 
+    font-size: 26px;
+    margin-top: 190px;}
+
+#met2Title {margin-left: 9%;
+margin-top: 100px;
+position: relative;
+top: 150px;
+}
+
+#metPic {width: 40%;
+margin-left: 20%;
+bottom: 150px;
+position: relative;
+left: 400px;
+z-index: -200;}
+
+#metPara {position: relative; 
+top: 140px;
+    left: 130px;
+width: 31%}
+
+#metDesc {position: absolute;
+right: 390px;
+top: 6250px;}
+
+
+#metFinTitle {margin-left: 9%;
+
+position: relative;
+top: 150px;}
+
+#metFinPara {position: relative; 
+top: 140px;
+    left: 130px;
+width: 31%;}
+
+#metFinPic {width: 40%;
+margin-left: 20%;
+bottom: 150px;
+position: relative;
+left: 400px;
+z-index: -200;}
+
+#metFinDesc {position: absolute;
+right: 270px;
+top: 6830px;}
+
+#theTitle {
+    color: black;
+margin-left: 48%;
+margin-top: 90px;
+}
+
+#thePara {margin-left: 33%;
+margin-top: 10px;}
+
+
+
+#dPic {width: 40%;
+margin-left: 20%;
+bottom: 150px;
+position: relative;
+left: 400px;}
+
 #procTitle {color: black;
 margin-left: 47%;
-margin-top: 140px;}
+margin-top: 100px;}
 #proc {margin-left: 33%;
 margin-top: 100px;}
 
@@ -594,7 +694,7 @@ position: absolute;
 width: 200px;
 height: 50px;
 left: 630px;
-top: 1980px;
+top: 1920px;
 
 background: #DDA542;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -675,6 +775,28 @@ border-color: transparent;}
 color: white;
     cursor: pointer;
 }
+
+
+
+#contactBtn7 {position: absolute;
+    color: white;
+width: 200px;
+height: 50px;
+left: 630px;
+top: 7210px;
+
+background: #DDA542;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+border-color: transparent;}
+
+
+#contactBtn7:hover {background-color: #DDA542;
+color: white;
+    cursor: pointer;
+}
+
 
 #send {background-color: #DDA542;
 color: white;}
@@ -777,5 +899,17 @@ color: white;}
     width: 62px;
     height: 62px;
 }
+
+
+#copy {color: white;
+ position: relative;
+    top: 50px;
+}
+
+#right {color: white;
+font-size: 12px;
+position: relative;
+left: 70px;
+top: 16.5px}
 
 #arrowup:hover {color: #DDA542;}
